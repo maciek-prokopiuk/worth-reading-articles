@@ -10,8 +10,14 @@
 ## JS: 
 - [Node.js Best practices](https://github.com/alanjames1987/Node.js-Best-Practices)
 
+## Linux: 
+- [Linux Journey - Learn linux](https://linuxjourney.com/)
 
-## General programming: 
+## General: 
 - [How to write unmaintable code?](https://github.com/Droogans/unmaintainable-code/)
+- [REST API DESIGN Resource Modeling](https://www.thoughtworks.com/insights/blog/rest-api-design-resource-modeling)
+- [Nice tool for build and test REGEXes](http://regexr.com/)
+- [Lesser known GIT commands](https://hackernoon.com/lesser-known-git-commands-151a1918a60#.qnii06jul)
 
-## Unrealated to IT stuff
+## Non-technical stuff
+- [Hype Driven Development](https://blog.daftcode.pl/hype-driven-development-3469fc2e9b226)
