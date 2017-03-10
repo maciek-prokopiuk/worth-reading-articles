@@ -22,6 +22,6 @@
 - [REST API DESIGN Resource Modeling](https://www.thoughtworks.com/insights/blog/rest-api-design-resource-modeling)
 - [Nice tool for build and test REGEXes](http://regexr.com/)
 - [Lesser known GIT commands](https://hackernoon.com/lesser-known-git-commands-151a1918a60#.qnii06jul)
-
+- [Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions)
 ## Non-technical stuff
 - [Hype Driven Development](https://blog.daftcode.pl/hype-driven-development-3469fc2e9b226)
