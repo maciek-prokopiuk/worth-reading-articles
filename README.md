@@ -5,13 +5,17 @@
 - [Java Design Patterns repository](https://github.com/iluwatar/java-design-patterns)
 - [Overview of Programming Principles](https://github.com/iluwatar/programming-principles)
 - [JMM](https://shipilev.net/blog/2016/close-encounters-of-jmm-kind/)
+- [JMM Pragmatics](https://shipilev.net/blog/2014/jmm-pragmatics/#_part_ii_word_tearing)
 - [JetBrains blog about performing CodeReviews](https://blog.jetbrains.com/upsource/category/practices/)
+- [Spring Cloud](http://cloud.spring.io/spring-cloud-static/Camden.SR5/)
+- [Project Reactor](http://projectreactor.io/docs/core/release/reference/docs/index.html) 
 
 ## JS: 
 - [Node.js Best practices](https://github.com/alanjames1987/Node.js-Best-Practices)
 
 ## Linux: 
 - [Linux Journey - Learn linux](https://linuxjourney.com/)
+- [CMD Line Challange - set of excercises](http://cmdchallenge.com)
 
 ## General: 
 - [How to write unmaintable code?](https://github.com/Droogans/unmaintainable-code/)
