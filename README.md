@@ -1,6 +1,6 @@
 # worth-reading-articles
 
-## Java: 
+## Java & Cloud: 
 - [CR: What to look for in Java8 code](https://blog.jetbrains.com/upsource/2016/08/03/what-to-look-for-in-java-8-code/)
 - [Java Design Patterns repository](https://github.com/iluwatar/java-design-patterns)
 - [Overview of Programming Principles](https://github.com/iluwatar/programming-principles)
@@ -9,6 +9,7 @@
 - [JetBrains blog about performing CodeReviews](https://blog.jetbrains.com/upsource/category/practices/)
 - [Spring Cloud](http://cloud.spring.io/spring-cloud-static/Camden.SR5/)
 - [Project Reactor](http://projectreactor.io/docs/core/release/reference/docs/index.html) 
+- [AWS Open Guide](https://github.com/open-guides/og-aws)
 
 ## JS: 
 - [Node.js Best practices](https://github.com/alanjames1987/Node.js-Best-Practices)
