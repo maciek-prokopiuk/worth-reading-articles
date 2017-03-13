@@ -27,5 +27,6 @@
 - [Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions)
 - [12 Factor Apps](https://12factor.net/)
 - [VIMgifs](https://vimgifs.com/) 
+
 ## Non-technical stuff
 - [Hype Driven Development](https://blog.daftcode.pl/hype-driven-development-3469fc2e9b226)
