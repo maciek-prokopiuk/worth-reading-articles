@@ -1,4 +1,4 @@
-# worth-reading-articles
+# worth-reading-articles (and movies)
 
 ## Java & Cloud: 
 - [CR: What to look for in Java8 code](https://blog.jetbrains.com/upsource/2016/08/03/what-to-look-for-in-java-8-code/)
@@ -11,6 +11,12 @@
 - [Project Reactor](http://projectreactor.io/docs/core/release/reference/docs/index.html) 
 - [AWS Open Guide](https://github.com/open-guides/og-aws)
 - [Reactor Hands-on Repo](https://github.com/reactor/lite-rx-api-hands-on)
+- [Spring Boot Under The Hood YT](https://www.youtube.com/watch?v=uof5h-j0IeE)
+- [Microservices at Netflix Scale](https://www.youtube.com/watch?v=57UK46qfBLY)
+- [Understanding the Disruptor, a Beginner's Guide to Hardcore Concurrency -Trisha Gee & Mike Barker](https://www.youtube.com/watch?v=DCdGlxBbKU4)
+- [Greg Young - CQRS and Event Sourcing - Code on the Beach 2014](https://www.youtube.com/watch?v=JHGkaShoyNs)
+- [LongAdders in Java8 - The Right Way To Manage Concurrent Counters](http://blog.takipi.com/java-8-longadders-the-fastest-way-to-add-numbers-concurrently/)
+- [Notes about Reactive programming](https://github.com/dsyer/reactive-notes)
 
 ## JS: 
 - [Node.js Best practices](https://github.com/alanjames1987/Node.js-Best-Practices)
