@@ -17,6 +17,10 @@
 - [Greg Young - CQRS and Event Sourcing - Code on the Beach 2014](https://www.youtube.com/watch?v=JHGkaShoyNs)
 - [LongAdders in Java8 - The Right Way To Manage Concurrent Counters](http://blog.takipi.com/java-8-longadders-the-fastest-way-to-add-numbers-concurrently/)
 - [Notes about Reactive programming](https://github.com/dsyer/reactive-notes)
+- [LongAdders in depth](https://minddotout.wordpress.com/2013/05/11/java-8-concurrency-longadder/)
+- [Reactive Programming in Java by Venkat Subramaniam](https://www.youtube.com/watch?list=PLRsbF2sD7JVrSZUR0G2sUGD1VhJUQnWZU&v=f3acAsSZPhU)
+- [Java101: Java concurrency without the pain](http://www.javaworld.com/article/2078809/java-concurrency/java-concurrency-java-101-the-next-generation-java-concurrency-without-the-pain-part-1.html)
+- [Testing your code within JMM](https://zeroturnaround.com/rebellabs/concurrency-torture-testing-your-code-within-the-java-memory-model/)
 
 ## JS: 
 - [Node.js Best practices](https://github.com/alanjames1987/Node.js-Best-Practices)
@@ -24,8 +28,10 @@
 ## Linux: 
 - [Linux Journey - Learn linux](https://linuxjourney.com/)
 - [CMD Line Challange - set of excercises](http://cmdchallenge.com)
+- [SSH Config tips](http://nerderati.com/2011/03/17/simplify-your-life-with-an-ssh-config-file/)
 
 ## General: 
+- [Awesome algorithms repo](https://github.com/tayllan/awesome-algorithms)
 - [How to write unmaintable code?](https://github.com/Droogans/unmaintainable-code/)
 - [REST API DESIGN Resource Modeling](https://www.thoughtworks.com/insights/blog/rest-api-design-resource-modeling)
 - [Nice tool for build and test REGEXes](http://regexr.com/)
@@ -33,6 +39,7 @@
 - [Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions)
 - [12 Factor Apps](https://12factor.net/)
 - [VIMgifs](https://vimgifs.com/) 
+- [A good Vimrc](https://dougblack.io/words/a-good-vimrc.html)
 
 ## Non-technical stuff
 - [Hype Driven Development](https://blog.daftcode.pl/hype-driven-development-3469fc2e9b226)
